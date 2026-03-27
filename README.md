@@ -1,6 +1,6 @@
 # 🐔 FiveM Chicken Harvest Script (ox_lib / ox_inventory)
 
-> 🔗 **Discord:** https://discord.gg/YOURDISCORD
+> 🔗 **Discord:** https://discord.gg/vwXJ9Ve87U
 
 A lightweight, server-synced chicken harvesting system for FiveM.  
 Players can catch chickens in the world and receive egg rewards, with fully configurable spawn zones and respawn timers.
