@@ -39,7 +39,7 @@ Make sure these are installed and started **before** this resource:
 
 # 🐔 NBRP Chicken Harvest
 
-> 🔗 **Discord:** https://discord.gg/YOURDISCORD
+> 🔗 **Discord:** [ https://discord.gg/vwXJ9Ve87U ]
 
 A fully networked chicken harvesting system for FiveM.
 
