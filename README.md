@@ -5,11 +5,6 @@
 A lightweight, server-synced chicken harvesting system for FiveM.  
 Players can catch chickens in the world and receive egg rewards, with fully configurable spawn zones and respawn timers.
 
----
-
-## 📸 Preview
-
-*(Add screenshots or GIF here)*
 
 ---
 
